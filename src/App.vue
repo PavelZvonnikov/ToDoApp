@@ -1,26 +1,23 @@
 <template>
   <div id="app" class="container">
-    <ToDoList />
+    <TodoList />
   </div>  
 </template>
 
 <script>
-import ToDoList from "./components/ToDoList.vue"
+import TodoList from "./components/TodoList/temp.vue"
+
 export default {
   name: 'app',
   components: {
-    ToDoList
-  },
-  data() {
-    return {
-      
-    }
-  },
+    TodoList
+  }
 
 }
 </script>
 
 <style>
+
   * {
     box-sizing: border-box;
   }

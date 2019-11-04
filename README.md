@@ -12,5 +12,5 @@ npm run serve
 
 ## Browsing
 ```
-You can browse this SPA [here](https://pavelzvonnikov.github.io/ToDoApp/)
+You can browse this SPA here: <https://pavelzvonnikov.github.io/ToDoApp/>
 ```
